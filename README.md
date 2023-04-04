@@ -1,7 +1,7 @@
 ## Hey Guys! <img align="center" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif" width="35px">
 
  Sou Matheus Robert, estudante de Sistemas da Informação na Universidade de Pernambuco
-- 💻 Desenvolvedora de software
+- 💻 Desenvolvedor de software
 - 👨🏻‍💻 Front-End
 - 🖱️ UX/UI Desing
 
