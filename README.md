@@ -1,4 +1,6 @@
-<h1 align="left">Hey Guys! <img align="center" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif" width="40px"></h1>
+<h1 align="left">hello world! <img align="center" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif" width="40px"></h1>
+
+- 🎓 Sistema da Informação - UPE
 
 - ⚡ Desenvolvedor de Sistemas de Automação Comercial
 
@@ -6,9 +8,9 @@
 
 - ⌨️ UI/UX Design <!--https://www.behance.net/matheusrdev -->
 
-<br><br>
+<br>
 
-## ℹ️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -25,18 +27,16 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobePhotoshop)
 
-<br><br>
+<br>
 
 ## Contato
 
 <a href = "mailto:matheusrobertjs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" target="_blank"></a>
 <a href="www.linkedin.com/in/matheusrobert-dev" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" target="_blank"></a>
 
-<br><br>
+<br>
 
 ## ⚙️ GitHub Analytics
 
 | ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MtheusR&theme=github_dark) | ![Streak Stats](https://streak-stats.demolab.com?user=MtheusR&theme=whatsapp-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=EB545400) |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<br><br>
