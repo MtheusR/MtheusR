@@ -6,7 +6,7 @@
 
 - 🖥️ Desenvolvedor Web Front-End Junior
 
-- ⌨️ UI/UX Design <!--https://www.behance.net/matheusrdev -->
+- ⌨️ UI/UX Designer <!--https://www.behance.net/matheusrdev -->
 
 <br>
 
